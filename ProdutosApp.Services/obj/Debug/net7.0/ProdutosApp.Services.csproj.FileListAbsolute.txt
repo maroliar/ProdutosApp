@@ -31,3 +31,5 @@ C:\TEMP\COTI_CSHARP\ProdutosApp\ProdutosApp.Services\obj\Debug\net7.0\refint\Pro
 C:\TEMP\COTI_CSHARP\ProdutosApp\ProdutosApp.Services\obj\Debug\net7.0\ProdutosApp.Services.pdb
 C:\TEMP\COTI_CSHARP\ProdutosApp\ProdutosApp.Services\obj\Debug\net7.0\ProdutosApp.Services.genruntimeconfig.cache
 C:\TEMP\COTI_CSHARP\ProdutosApp\ProdutosApp.Services\obj\Debug\net7.0\ref\ProdutosApp.Services.dll
+C:\TEMP\COTI_CSHARP\ProdutosApp\ProdutosApp.Services\bin\Debug\net7.0\ProdutosApp.Services.xml
+C:\TEMP\COTI_CSHARP\ProdutosApp\ProdutosApp.Services\obj\Debug\net7.0\ProdutosApp.Services.xml
